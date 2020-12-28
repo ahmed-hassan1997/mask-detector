@@ -1,0 +1,5 @@
+classes = 2
+train = mask_detection/mask_trainning.txt
+valid = mask_detection/mask_testing.txt
+names = mask_detection/mask.names
+backup = backup
